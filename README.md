@@ -1,1 +1,2 @@
-"# pyTimer" 
+# pyTimer
+A basic Python command line timer that takes in the hours, minutes, and seconds you input. Outputting your desired time and displaying a live countdown until the time hits 0 telling you that time is up.
